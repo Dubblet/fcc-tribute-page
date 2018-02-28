@@ -1,0 +1,10 @@
+.red-text {
+    color: red;
+}
+.center {
+    margin: 0 auto;
+    max-width: 500px;
+}
+#milkshake {
+    max-width: 250px;
+}
